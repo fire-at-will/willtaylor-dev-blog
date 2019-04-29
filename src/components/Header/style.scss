@@ -1,0 +1,9 @@
+@import "../../assets/scss/variables";
+@import "../../assets/scss/mixins";
+
+.header {
+    background-color: $color-secondary;
+    color: whitesmoke;
+    margin-bottom: 3rem;
+    border-bottom: 1px solid $color-primary;
+}
