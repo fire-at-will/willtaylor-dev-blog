@@ -6,8 +6,6 @@ path: "/about"
 
 Hi! I'm a full stack developer with a passion for tinkering with new technologies and exploring the boundaries between software and art.
 
-Most recently I've co-founded SymbolSpeak, a startup dedicated to creating software to give people a voice who would otherwise be unable to speak. More info on that soon! :)
-
 <br>
 <hr class="divider-line"/>
 
