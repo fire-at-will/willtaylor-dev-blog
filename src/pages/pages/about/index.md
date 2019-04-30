@@ -48,7 +48,7 @@ I've been fortunate to be able to work in all corners of the technology stack. S
 
 | Category | | Technologies                                         |
 |----------|-|------------------------------------------------------|
-| Backend  |&#10240;&#10240;&#10240;&#10240;|    Java, Spring Boot, Gradle, Apache Kafka, Python, C   |
+| Backend  | &#8198;&#8198;&#8198;&#8195;&#8195;&#8195;&#8195;|    Java, Spring Boot, Gradle, Apache Kafka, Python, C   |
 | Mobile   | | Swift, Objective-C, Java, React Native, Firebase     |
 | Web     | | HTML, CSS, SCSS, JavaScript, React, Gatsby, Firebase |
 | Database | | MongoDB, Firestore, DB2                              |
