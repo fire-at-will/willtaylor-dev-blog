@@ -6,10 +6,15 @@
 $title-font: 'Nunito';
 $text-font: "Open Sans";
 // Colors
-$color-base: #222;
-$color-primary: #343633;// #262626;        // Default #5d93ff
-$color-secondary: #45cb85;         // Default #f7a046;
-$color-background: #ffffff;
+$color-base: #F7F4F3;
+$color-primary: #373F51;// #262626;        // Default #5d93ff
+$color-secondary: #1DD3B0;         // Default #f7a046;
+$color-background: #373F51;
+
+// $color-base: #222;
+// $color-primary: #343633;// #262626;        // Default #5d93ff
+// $color-secondary: #45cb85;         // Default #f7a046;
+// $color-background: #373F51;
 
 $color-white: lighten($color-base, 100%);
 $color-gray: lighten($color-base, 40%);

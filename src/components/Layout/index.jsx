@@ -13,7 +13,7 @@ class Layout extends React.Component {
       <div>
         <Header />
         <div className="layout">
-          <Helmet defaultTitle="Taylor Tech Tips" />
+          <Helmet defaultTitle="Will Taylor" />
           {children}
         </div>
       </div>

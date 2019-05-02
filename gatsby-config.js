@@ -25,9 +25,9 @@ module.exports = {
     ],
     author: {
       name: 'Will Taylor',
-      email: '#wtaylor151@gmail.com',
-      twitter: '#Fire_At_Will_',
-      github: '#fire-at-will',
+      email: 'wtaylor151@gmail.com',
+      twitter: 'Fire_At_Will_',
+      github: 'fire-at-will',
     },
   },
   plugins: [
