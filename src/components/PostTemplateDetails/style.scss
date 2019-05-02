@@ -107,7 +107,7 @@
         text-align: center;
         color: lighten(white, 20%);
         background: $color-secondary;
-        border-color: $color-primary;
+        border-color: $color-base;
         border-width: 3px;
         border-style: solid;
         font-weight: 400;
@@ -116,8 +116,8 @@
         &:hover,
         &:focus {
             color: lighten(white, 50%);
-            background: darken($color-secondary, 10%);
-            border-color: $color-primary;
+            background: darken($color-secondary, 5%);
+            border-color: $color-base;
             border-width: 3px;
             border-style: solid;
         }
