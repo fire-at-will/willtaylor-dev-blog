@@ -11,7 +11,7 @@ description: "Welcome to my blog! Come on in and make yourself at home."
 
 Since I was a child, I've been fascinated with the way that computers work. I recall being enamored with the [communicators](https://en.wikipedia.org/wiki/Communicator_(Star_Trek)) used in Star-Trek or dreaming over Dexter's secret laboratory from the [90's cartoon](https://en.wikipedia.org/wiki/Dexter%27s_Laboratory) of the same name.
 
-As I entered my teens, my attention pivoted towards video games. While I raced around in Mario Kart 64, I couldn't help but wonder what was happening under the hood. I knew that computers were good at doing basic arithmetic, but *how* did simple arithmetic add up to create such vibrant worlds as those shown in the video games?
+As I entered my teens, my attention pivoted towards video games. While I raced around in Mario Kart 64, I couldn't help but wonder what was happening under the hood. I knew that computers were good at doing basic arithmetic, but *how* could simple arithmetic add up to create such vibrant worlds as those in the games I played?
 
 ![Mario Kart 64](./mk64.jpg)
 *Video games like Mario Kart 64 made me wonder how applications work under the hood.*
