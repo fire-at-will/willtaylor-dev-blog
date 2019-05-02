@@ -12,7 +12,7 @@ Hi! I'm a full stack developer with a passion for tinkering with new technologie
 ## Clients
 I've had the pleasure of working for many companies over the years in many different industries.
 
-<div class="row">
+<div class="row-white">
     <div class="columnOneQuarter">
         <img class="columnImage" src="./bnsf.png"/>
     </div>
