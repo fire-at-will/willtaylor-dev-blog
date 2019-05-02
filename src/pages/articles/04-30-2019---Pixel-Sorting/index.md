@@ -2,7 +2,7 @@
 title: Pixel Sorting
 date: "2019-04-30T20:11:15+00:00"
 layout: post
-draft: false
+draft: true
 path: "/posts/pixel-sorting/"
 category: "Algorithms"
 tags:
