@@ -10,7 +10,7 @@ Hi! I'm a full stack developer with a passion for tinkering with new technologie
 <hr class="divider-line"/>
 
 ## Clients
-I've had the pleasure of working for many companies over the years in many different industries.
+I've had the pleasure of working for many companies in a wide variety of industries.
 
 <div class="row-white">
     <div class="columnOneQuarter">
@@ -42,7 +42,7 @@ Each experience offered me different opportunities and challenges, and during my
 
 ## Technologies
 
-I've been fortunate to be able to work in all corners of the technology stack. Specifically, I have used the following technologies to deliver value in the past:
+I've worked in all corners of the technology stack. Specifically, I have used the following technologies in the past:
 
 | Category | | Technologies                                         |
 |----------|-|------------------------------------------------------|

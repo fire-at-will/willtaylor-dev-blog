@@ -20,9 +20,7 @@ I dreamed of the countless lines of code that were working in unison to orchestr
 
 Fast forward a few years and countless projects later and I've learned so much about what makes software tick. I've received a degree in computer science from TCU and have worked as a software engineer for many companies large and small, in tech and in other industries. I enjoy working in every corner of the stack - frontend to backend. My biggest passion these days is  writing iOS apps in [Swift](https://developer.apple.com/swift/) - they're such a delight to write! I'm also very interested in microservice architectures and their implementations. I tend to write them using [Spring Boot](https://spring.io/projects/spring-boot) and Java but I dabble in other languages and frameworks from time to time. My favorite part of software is where it intersects with art to create something that could not exist in any other medium - expect to see more from that soon!
 
-It's my hope that this blog inspires and helps aspiring software engineers to pursue their passion.
-
-I can't thank you enough for joining me on this adventure. Cheers! 
+It's my hope that this blog inspires and helps aspiring software engineers to pursue their passion. Cheers!
 
 ```java
 // Or, as they say in Java...
