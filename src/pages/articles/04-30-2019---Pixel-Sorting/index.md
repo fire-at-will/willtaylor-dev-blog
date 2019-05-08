@@ -2,13 +2,14 @@
 title: Pixel Sorting
 date: "2019-04-30T20:11:15+00:00"
 layout: post
-draft: true
+draft: false
 path: "/posts/pixel-sorting/"
 category: "Algorithms"
 tags:
   - "Digital Art"
   - "Algorithms"
-description: "What is pixel sorting? Let's find out."
+  - "Java"
+description: "What is pixel sorting and how does it work? Let's find out."
 ---
 
 ![image](./image_original.jpg)
@@ -230,6 +231,6 @@ The greater the value of the `maxNumberOfIntervals` input variable is, the small
 <hr class="divider-line"/>
 
 ## Further Reading
-The full source code for the project we've been working on in this article can be found in [this repo]() on my GitHub page. If you'd like to learn more about pixel sorting, do check out the dedicated [subreddit](https://www.reddit.com/r/pixelsorting).
+The full source code for the project we've been working on in this article can be found in [TODO: this repo]() on my GitHub page. If you'd like to learn more about pixel sorting, do check out the dedicated [subreddit](https://www.reddit.com/r/pixelsorting).
 
 Thanks for reading!
