@@ -58,20 +58,18 @@ Let's give our code a spin on this picture from a recent trip to Seattle.
 
 <div class="row">
   <div class="columnHalf" style="margin-right: 1em;">
-    <b>Before</b>
-    <br>
-    <br>
+    <h3>Before</h3>
     <img src="/image_original.jpg">
   </div>
   <div class="columnHalf" style="margin-left: 1em;">
-    <b>After</b>
-    <br>
-    <br>
+    <h3>After</h3>
     <img src="/image_sorted1.jpg">
   </div>
+  
 </div>
+<br>
 
-Pretty neat, huh? We can see that each row has been sorted by the pixel's color from darkest to lightest. The pixels from the original picture are still there - the Puget Sound is visible in the center of the picture and the sunset is just as vibrant as before. We can modify our code easily from here to sort the image vertically by columns as well.
+Pretty neat, huh? We can see that each row has been sorted by the pixel's color from darkest to lightest. The pixels from the original picture are still there; the Puget Sound is visible in the center of the picture and the sunset is just as vibrant as before. We can modify our code easily from here to sort the image vertically by columns as well.
 
 ```java{numberLines: true}
 public PixelBuffer sortImageVertically(PixelBuffer pixelMatrix){
@@ -152,7 +150,7 @@ Adding this extra `for` loop to our algorithm raises the time complexity but the
 
 ## Pushing It Further: Variable Width Sort Intervals
 
-Let's see how far we can take this! What if we added more variance to image to spice things up? The pictures above are a little too *predictable*, aren't they? Why not give each row a different number of sorting intervals? While we're at it, let's give the intervals a *random* width instead of the *constant* width they already have!
+What if we added more variance to algorithm to spice things up? The pictures above are a little too *predictable*, aren't they? Why not give each row a different number of sorting intervals? While we're at it, let's give the intervals a *random* width instead of the *constant* width they already have!
 
 ```java{numberLines: true}
 public PixelBuffer sortImageHorizontally(
@@ -203,7 +201,7 @@ Whew!! Our code is getting to be pretty long, isn't it? Despite the length, the 
 
 ![image sorted horizontally with variable sort intervals](/image_sorted6.jpg)
 
-The greater the value of the `maxNumberOfIntervals` input variable is, the smaller the individual intervals are, and thus the more like the sorted image will look more like the original image. 
+As the `maxNumberOfIntervals` variable increases in size, the individual sort intervals become smaller in length, thus making the final image look more like the original image. 
 
 ![image sorted horizontally with variable sort intervals](/image_sorted7.jpg)
 *This picture was sorted with a `maxNumberOfIntervals` of 400.*
@@ -231,6 +229,6 @@ The greater the value of the `maxNumberOfIntervals` input variable is, the small
 <hr class="divider-line"/>
 
 ## Further Reading
-The full source code for the project we've been working on in this article can be found in [TODO: this repo]() on my GitHub page. If you'd like to learn more about pixel sorting, do check out the dedicated [subreddit](https://www.reddit.com/r/pixelsorting).
+If you'd like to learn more about pixel sorting, check out the dedicated [subreddit](https://www.reddit.com/r/pixelsorting)! Credits for the images near the top of the post go to [u/kavurmija](https://www.reddit.com/user/kavurmija/), [u/Syogurt](https://www.reddit.com/user/Syogurt/), and [u/snakedoctor141](https://www.reddit.com/user/snakedoctor141/).
 
 Thanks for reading!
