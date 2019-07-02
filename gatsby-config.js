@@ -6,7 +6,7 @@ module.exports = {
     url: 'https://willtaylor.dev',
     title: 'Will Taylor',
     subtitle:
-      'Software Engineer | Mobile | Web | Backend',
+      'Mobile | Web | Backend',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -15,11 +15,11 @@ module.exports = {
         path: '/',
       },
       {
-        label: 'About me',
+        label: 'About',
         path: '/about/',
       },
       {
-        label: 'Contact me',
+        label: 'Contact',
         path: '/contact/',
       },
     ],

@@ -1,12 +1,11 @@
 ---
-title: "About Me"
+title: "About"
 layout: page
 path: "/about"
 ---
 
 Hi! I'm a full stack developer with a passion for tinkering with new technologies and exploring the boundaries between software and art.
 
-<br>
 <hr class="divider-line"/>
 
 ## Clients
@@ -37,7 +36,6 @@ Each experience offered me different opportunities and challenges, and during my
 * Leveraging modern technologies such as Kubernetes, Openshift, and Jenkins to accelerate development and deployment times 🚀
 * Working with business stakeholders and technical experts to establish business and technical requirements for applications 📝
 
-<br>
 <hr class="divider-line"/>
 
 ## Technologies
@@ -46,8 +44,14 @@ I've worked in all corners of the technology stack. Specifically, I have used th
 
 | Category | | Technologies                                         |
 |----------|-|------------------------------------------------------|
-| Backend  | &#8198;&#8198;&#8198;&#8195;&#8195;&#8195;&#8195;|    Java, Spring Boot, Gradle, Apache Kafka, Python, C   |
-| Mobile   | | Swift, Objective-C, Java, React Native, Firebase     |
-| Web     | | HTML, CSS, SCSS, JavaScript, React, Gatsby, Firebase |
-| Database | | MongoDB, Firestore, DB2                              |
-| DevOps   | | Jenkins, Docker, Kubernetes, Openshift, GCP/GKE      |
+| Backend  | &#8198;&#8198;&#8198;&#8195;&#8195;&#8195;&#8195;|    Java, Spring Boot, Apache Kafka, Spring Data, JUnit, TestNG, Maven, Gradle, Artifactory, Python   |
+| Mobile   | | Swift, Fastlane, Firebase, Crashlytics, PromiseKit, CocoaPods, SwiftLint     |
+| Web     | | HTML5/CSS/SCSS, JavaScript, JQuery, React, GatsbyJS, Jest, ESLint, npm |
+| Database | | Cloud Firestore, MongoDB, DB2                             |
+| DevOps   | | Kubernetes, OpenShift, Docker, Google Cloud Platform, Jenkins, Netlify      |
+
+<hr class="divider-line"/>
+
+## Full Resume
+
+Please click <a href="./Will Taylor Resume - 2019.pdf">here</a> for a full resume.
