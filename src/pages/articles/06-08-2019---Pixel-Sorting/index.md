@@ -10,6 +10,7 @@ tags:
   - "Algorithms"
   - "Java"
 description: "What is pixel sorting and how does it work? Let's find out."
+featuredImage: null
 ---
 
 ![image](./image_original.jpg)

@@ -1,12 +1,13 @@
 ---
 title: Hello, World!
-date: "2019-05-02T20:11:15+00:00"
+date: "2019-06-08T20:11:15+00:00"
 layout: post
 draft: false
 path: "/posts/hello-world/"
 category: "Hello World"
 tags:
 description: "Welcome to my blog! Come on in and make yourself at home."
+featuredImage: "test"
 ---
 
 Since I was a child, I've been fascinated with the way that computers work. I recall being enamored with the [communicators](https://en.wikipedia.org/wiki/Communicator_(Star_Trek)) and [transporters](https://en.wikipedia.org/wiki/Transporter_(Star_Trek)) used in Star-Trek or dreaming over Dexter's secret laboratory from the [90's cartoon](https://en.wikipedia.org/wiki/Dexter%27s_Laboratory) of the same name.

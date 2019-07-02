@@ -54,7 +54,6 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       limit: 1000
-      filter: { frontmatter: { layout: { eq: "post" }, draft: { ne: true } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
@@ -67,10 +66,11 @@ export const pageQuery = graphql`
             title
             date
             category
-            description
+            description,
           }
         }
       }
     }
   }
 `
+      // filter: { frontmatter: { layout: { eq: "post" }, draft: { ne: true } } }
